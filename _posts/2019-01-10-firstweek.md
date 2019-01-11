@@ -1,3 +1,3 @@
-# Title of our blog
-
-this week i installed node js
+# [ title of post ]({% post_url 2019-01-10-firstweek %})
+ 
+ hiiiii
