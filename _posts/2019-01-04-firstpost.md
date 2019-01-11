@@ -1,4 +1,4 @@
-#Title of Our First Post
+# Title of Our First Post
 
 Some content for the post.
-# [ title of post ]({% post_url 2010-07-21-namhe-of-post %})
+
