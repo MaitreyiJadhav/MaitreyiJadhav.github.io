@@ -12,6 +12,8 @@ Express App Setup
 - Hello world Using Express
 - [Rendering more than one page using localhost](http://expressjs.com/en/guide/routing.html)
 
+![screenshot week3](/images/wk3.png)
+
 
 
 
