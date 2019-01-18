@@ -3,7 +3,7 @@
 
 
 Basic Installation
-- [Homebrew] (https://brew.sh/)
+- [Homebrew](https://brew.sh/)
 - Node.js on Mac -- https://nodejs.org/en/
 - npm using homebrew
 
