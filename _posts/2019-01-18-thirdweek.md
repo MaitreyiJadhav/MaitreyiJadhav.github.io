@@ -3,7 +3,7 @@
 
 
 Basic Installation
-- Set up worl Environment [VSCode](https://code.visualstudio.com/)
+- Set up work Environment [VSCode](https://code.visualstudio.com/)
 - [Homebrew](https://brew.sh/)
 - [Node.js on Mac](https://nodejs.org/en/)
 - npm using homebrew
