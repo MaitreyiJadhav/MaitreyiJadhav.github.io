@@ -1,4 +1,4 @@
-# [Presentation - AngularJS]({% post_url 2019-02-14-Presentation % })
+# [Presentation - AngularJS]({% post_url 2019-02-14-Presentation %})
 
 
 
