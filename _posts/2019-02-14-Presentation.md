@@ -18,7 +18,17 @@ Not only the bigger companies around the world are using Angular but even the sm
  - Take daily notes
  - Add an item to the list
  - Delete an item from the list
+ - On the backend the app will interact with MongoDB
  
+- This app will meet the basic **CRUD** functionalities.
+ 
+
+# References 
+- [https://www.madewithangular.com/about/](https://www.madewithangular.com/about/)
+- [https://www.w3schools.com/angular/angular_intro.asp](https://www.w3schools.com/angular/angular_intro.asp)
+- [https://merehead.com/blog/angular-react-2019/](https://merehead.com/blog/angular-react-2019/)
+- [https://hackr.io/blog/why-should-you-learn-angular-in-2018#Angular_supports_Single_Page_Applications]     (https://hackr.io/blog/why-should-you-learn-angular-in-2018#Angular_supports_Single_Page_Applications)
+
 
 
 
