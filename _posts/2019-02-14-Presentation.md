@@ -16,7 +16,7 @@ Not only the bigger companies around the world are using Angular but even the sm
 
 - For the presentation of this term I will build an app with following functionality:
  - Take daily notes
- - Add an item to the list
+ - Add a note/item to the list. This could potentially be a shopping list item, a todo item, or a note someone can take in        class.
  - Delete an item from the list
  - On the backend the app will interact with MongoDB
  
