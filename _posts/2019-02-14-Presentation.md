@@ -18,7 +18,7 @@ Not only the bigger companies around the world are using Angular but even the sm
  - Take daily notes
  - Add a note/item to the list. This could potentially be a shopping list item, a todo item, or a note someone can take in        class.
  - Delete an item from the list
- - On the backend the app will interact with MongoDB
+ - On the backend the app will interact with MongoDB/ Firebase 
  
 - This app will meet the basic **CRUD** functionalities.
  
