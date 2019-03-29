@@ -18,3 +18,7 @@ To get Node.js, go to [nodejs.org](https://nodejs.org/en/)
 
 **ng serve --open --port 4200** 
 This will open the app directly on http://localhost:4200/
+
+
+![Final prototype](/images/final.png)
+
