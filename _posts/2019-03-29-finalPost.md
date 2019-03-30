@@ -1,5 +1,7 @@
 # [Final Blog - Completed Project, challenges faced, future work]({% post_url 2019-03-29-finalPost %}) 
 
+Link to download App - [https://github.com/MaitreyiJadhav/Todo-App](https://github.com/MaitreyiJadhav/Todo-App)
+
 ## Prerequisites 
 
 [https://angular.io/guide/quickstart](https://angular.io/guide/quickstart)
@@ -22,7 +24,7 @@ This will open the app directly on http://localhost:4200/
 
 ![Final prototype](/images/final.png)
 
-After Project•Evaluate your overall progress with respect to your initial goals •Lessons learned and unexpected challenges •Future work (how can you use what you’ve learned?)•Final working prototype, slides/assets for presentation, tutorial (this will also be handed in on D2L
+
 ## Goals
 For this project and presenatation I have achieved all my goals that I had in the beginning of the project. 
 
