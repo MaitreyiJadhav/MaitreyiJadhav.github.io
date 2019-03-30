@@ -46,13 +46,13 @@ I have learned quiet a bit of the theorotical stuff behind angular:
 
 ## Future Work
 
-For my future work for this prototype more work can be potentially done on created a sorted list of the completed todos.
+For my future work for this prototype more work can be potentially done on creating a sorted list of the completed todos.
 
 I am now confident enough to say that with whatever knowledge I have gained over the past four weeks, I can build another small functional prototype in Angular on my own and be able to connect it with a database. And/or implement something similar using React, since React is also a component based library.
 
 # References
 - [https://www.youtube.com/watch?v=jNCzuSryJHE](https://www.youtube.com/watch?v=jNCzuSryJHE)
-- [https://stackoverflow.com/questions/45844695/whats-the-difference-between-angular-1-x-controller-and-angular-2-component]     (https://stackoverflow.com/questions/45844695/whats-the-difference-between-angular-1-x-controller-and-angular-2-component)
+- [https://stackoverflow.com/questions/45844695/whats-the-difference-between-angular-1-x-controller-and-angular-2-component](https://stackoverflow.com/questions/45844695/whats-the-difference-between-angular-1-x-controller-and-angular-2-component)
 - [https://www.youtube.com/watch?v=8sC55WKzJW4](https://www.youtube.com/watch?v=8sC55WKzJW4)
 - [https://angular.io/](https://angular.io/)
 
